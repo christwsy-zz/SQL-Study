@@ -1,0 +1,1 @@
+WHERE is the constraint values of columns from table and only those rows agree to the constraints pop up. HAVING is an aggregation function. Aggregation functions can’t be used in WHERE clause. It can be used in HAVING clause. Only columns or expression in the group can be included in the HAVING clause.

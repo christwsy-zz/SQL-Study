@@ -1,0 +1,1 @@
+VARCHAR distinguishes between null and empty string. VARCHAR2 doesn’t.
